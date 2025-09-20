@@ -40,7 +40,7 @@ License
 - MIT License (see LICENSE).
 
 Contact
-- Open a GitHub Issue or email: <your.email@domain>
+-   <mohamad.elhusseiny@lau.edu>
 
 Citation
 - El Husseiny M., Ishak D. Benchmarking biomedical transformers for ADE detection with SHAP explanations. 2025. (manuscript)
